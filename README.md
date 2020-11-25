@@ -1,2 +1,2 @@
-# gsizer.github.com
+# gsizer.github.io
 GitHub Pages Source
